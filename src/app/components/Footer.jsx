@@ -48,7 +48,8 @@ const Footer = () => {
               &ldquo;Студенческий стартап&rdquo; федерального проекта 
               &ldquo;Платформа университетского технологического предпринимательства&rdquo;&rdquo;
             </div>
-            <img src="images/ФондМ.jpg" alt="Логотип ФондМ" width={330} />
+            <img src="images/ФондМ.jpg" alt="Логотип ФондМ" width={330} style={{marginBottom : '20px'}}/>
+            <img src="images/footer-img2.jpg" alt="Логотип платформы университетского технологического предпринимательства" width={330}/>
           </p>
         </div>
       </div>
